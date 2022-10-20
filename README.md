@@ -106,7 +106,7 @@ For more information, please check the readme files in the different folders.
 
 | Scenario      | Description   | Usage of DMC Extension Pattern(s)   | Blogs          |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | Integrating additional fields from ERP during master data integration to DMC | Integration Extension, Field Extension | [Blog1](https://blogs.sap.com/2021/08/24/sap-digital-manufacturing-cloud-integration-extension) [Blog2](https://blogs.sap.com/2021/09/21/sap-digital-manufacturing-cloud-integration-extension-part-ii) [Blog3](https://blogs.sap.com/2021/02/05/use-sap-cloud-platform-integration-for-mediated-integration-between-sap-s-4hana-cloud-and-sap-digital-manufacturing-cloud) |
+| 1 | Integrating additional fields from ERP during master data integration to DMC | Integration Extension, Field Extension | [Integration Extension with S/4HANA Part 1](https://blogs.sap.com/2021/08/24/sap-digital-manufacturing-cloud-integration-extension) [Integration Extension with S/4HANA Part 2](https://blogs.sap.com/2021/09/21/sap-digital-manufacturing-cloud-integration-extension-part-ii) [Integration Extension with S/4HANA Cloud](https://blogs.sap.com/2021/02/05/use-sap-cloud-platform-integration-for-mediated-integration-between-sap-s-4hana-cloud-and-sap-digital-manufacturing-cloud) |
 2 | Showcasing the custom Fields from ERP in a custom POD plugin | POD Extension | [Building POD Extension easy way](https://blogs.sap.com/2022/04/11/building-a-custom-digital-manufacturing-cloud-pod-plugin-the-easy-way)  |
 
 # SAP Manufacturing Execution Extension Samples
