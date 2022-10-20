@@ -102,12 +102,13 @@ Each extension area has a folder in which you can find different sample code acc
 
 For more information, please check the readme files in the different folders.
 
-## Scenario Overview
+## DMC Extensibility by Use case
 
-| Category      | Scenario      | Overview      | Link          |
+| Scenario      | Description   | Usage of DMC Extension Pattern(s)   | Blogs          |
 | ------------- | ------------- | ------------- | ------------- |
-| Business Process Extension | Get Custom Fields from Order Data | In this example we demonstrate how to retrieve order-specific custom data depending on the current material (SFC) that is being worked on. This data can then be passed to external systems to trigger additional processes or to validate that certain conditions are met. | [Get-Custom-Fields-From-Order-Data-Using-SFC](DMC_BusinessProcesses/1-Get-Custom-Fields-From-Order-Data-Using-SFC)  |
-UI Extension | Custom Plugin for DMC PODs  | This custom plugin provides the sample implementation of a generic button which can be used in the POD Designer. When the user clicks the button in the POD, a URL will be called and parameters can be passed to the target application. | [Custom-Plugin-for-DMC-PODs](DMC_UX/1-Create-a-Generic-Button-And-Register-As-Custom-PoD-Plugin/CustomPodPlugin)  |
+| 1 | Integrating additional fields from ERP during master data integration to DMC
+ | Integration Extension, Field Extension | [Blog1](https://blogs.sap.com/2021/08/24/sap-digital-manufacturing-cloud-integration-extension) [Blog2](https://blogs.sap.com/2021/09/21/sap-digital-manufacturing-cloud-integration-extension-part-ii) [Blog3](https://blogs.sap.com/2021/02/05/use-sap-cloud-platform-integration-for-mediated-integration-between-sap-s-4hana-cloud-and-sap-digital-manufacturing-cloud) |
+2 | Showcasing the custom Fields from ERP in a custom POD plugin | POD Extension | [Building POD Extension easy way](https://blogs.sap.com/2022/04/11/building-a-custom-digital-manufacturing-cloud-pod-plugin-the-easy-way)  |
 
 # SAP Manufacturing Execution Extension Samples
 SAP Manufacturing Execution (SAP ME) is a powerful, enterprise-level, scalable, manufacturing business solution that enables global manufacturers to manage and control manufacturing and shop floor operations.<br />
