@@ -104,10 +104,10 @@ For more information, please check the readme files in the different folders.
 
 ## DMC Extensibility by Use case
 
-| Scenario      | Description   | Usage of DMC Extension Pattern(s)   | <div style="width:360px">Blogs</div>          |
+| Scenario      | Description   | DMC Extension Pattern(s)   | <div style="width:360px">Blogs</div>          |
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | Integrating additional fields from ERP <br/> during master data integration to DMC | Integration Extension, Field Extension | [Integration Extension with S/4HANA Part 1](https://blogs.sap.com/2021/08/24/sap-digital-manufacturing-cloud-integration-extension) <br/> [Integration Extension with S/4HANA Part 2](https://blogs.sap.com/2021/09/21/sap-digital-manufacturing-cloud-integration-extension-part-ii) <br/>  [Integration Extension with S/4HANA Cloud](https://blogs.sap.com/2021/02/05/use-sap-cloud-platform-integration-for-mediated-integration-between-sap-s-4hana-cloud-and-sap-digital-manufacturing-cloud) |
-2 | Showcasing the custom Fields from ERP <br/> in a custom POD plugin | POD Extension | [Building POD Extension easy way](https://blogs.sap.com/2022/04/11/building-a-custom-digital-manufacturing-cloud-pod-plugin-the-easy-way)  |
+2 | Showcasing the custom Fields from ERP in a custom POD plugin | POD Extension | [Building POD Extension easy way](https://blogs.sap.com/2022/04/11/building-a-custom-digital-manufacturing-cloud-pod-plugin-the-easy-way)  |
 
 # SAP Manufacturing Execution Extension Samples
 SAP Manufacturing Execution (SAP ME) is a powerful, enterprise-level, scalable, manufacturing business solution that enables global manufacturers to manage and control manufacturing and shop floor operations.<br />
