@@ -17,7 +17,7 @@ SAP Digital Manufacturing provides an out-of-the-box Manufacturing Execution Sys
 8 | Custom ME POD | ME Extension | [SAP ME UI5 Extension POD](ME_POD) |
 
 
-## Extension Patterns
+## DMC Extension Patterns
 In SAP Digital Manufacturing we distinguish between the following major areas for extensions:
 
  - **In-App Extensions**
